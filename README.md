@@ -3,7 +3,7 @@
 Twelve years of keeping infrastructure running — Linux, networks, virtualization.
 Now writing the same infrastructure as code, on AWS.
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/86eaea56-6b6b-4b73-967f-5331b32c456c/public_url)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/86eaea56-6b6b-4b73-967f-5331b32c456c/public_url)
 
 **Currently:** drilling Terraform toward the Associate exam.
 **Next:** a zero-trust security project — AWS Organizations, GuardDuty, Security Hub.
