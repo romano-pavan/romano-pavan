@@ -16,6 +16,7 @@ Now writing the same infrastructure as code, on AWS.
 |---|---|
 | [**adria-stay**](https://github.com/romano-pavan/adria-stay) | A multi-tier AWS environment written entirely in Terraform. Custom VPC across two AZs, autoscaling behind an ALB, RDS with a managed master password, private S3 behind CloudFront with OAC, and a GitHub Actions pipeline authenticating over OIDC. No long-lived keys, no open SSH ports, every decision written down as an ADR. |
 | [**tf-starter**](https://github.com/romano-pavan/tf-starter) | The five config files every Terraform project needs, already written. Clone it and start building. |
+| [**lockbox**](https://github.com/romano-pavan/lockbox) | Immutable offsite MySQL/MariaDB backups on Amazon S3 with Object Lock. One static binary, zero dependencies. |
 
 ---
 
